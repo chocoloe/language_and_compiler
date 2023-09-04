@@ -1,1 +1,2 @@
 # language_and_compiler
+This is the codebase of all of my work in programming language and compiler courses. The course covers topics including functional programming language, OOP, compiler, and interpreter, and it also dives deep into key concepts like higher-order function, closure, function environment, parsing, and grammar in programming languages that are transferable in many modern languages. 
